@@ -6,8 +6,6 @@
   <a href="https://github.com/Ratheshan03/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=FrontEnd+Developer;React+Developer;Vue+Developer;Software+Engineer;Tech+Explorer&center=true&width=500&height=50&font=Fira+Code&color=7F3FBF&vCenter=true">
   </a>
-  <p>I'm a passionate Front-End Developer with experience building web applications using React, Vue.js, and modern JavaScript frameworks. I enjoy turning ideas into reality through clean, efficient, and user-friendly</p>
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
@@ -20,10 +18,14 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working with Vue & React
-- 🌱 I love learning new technologies and contributing to open-source
-- 👯 I’m looking to collaborate on exciting frontend or full-stack projects
-- 🧠 Passionate about UI/UX, performance, and clean code
+
+I'm a passionate Front-End Developer with experience building web applications using React, Vue.js, and modern JavaScript frameworks. I enjoy turning ideas into reality through clean, efficient, and user-friendly interfaces.
+
+💻 Currently working on:
+- ⚛️ React and Vue-based projects  
+- 🧩 Component libraries and design systems  
+- 🔐 Authentication with Keycloak & JWT  
+- 📦 Scalable apps with optimized state management (Vuex, React Context)
 
 ---
 

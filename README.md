@@ -1,6 +1,6 @@
 <!-- ---------------------------------- Introduction ---------------------------------- -->
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <span style="color:#7F3FBF;">Murugan</span></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <span style="color:#7F3FBF;">Murugan M</span></h1>
 
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg">

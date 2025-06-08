@@ -1,11 +1,12 @@
 <!-- ---------------------------------- Introduction ---------------------------------- -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <span style="color:#7F3FBF;">Murugan M</span></h1>
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <span style="color:#7F3FBF;">Murugan M</span></h1>
 
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=FrontEnd+Developer;React+Developer;Vue+Developer;Software+Engineer;Tech+Explorer&center=true&width=500&height=50&font=Fira+Code&color=7F3FBF&vCenter=true">
   </a>
+  <p>I'm a passionate Front-End Developer with experience building web applications using React, Vue.js, and modern JavaScript frameworks. I enjoy turning ideas into reality through clean, efficient, and user-friendly</p>
 </p>
 
 <p align="center">
@@ -76,7 +77,7 @@
 ### 🌐 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Murugan0328&custom_title=Murugan's%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=FFFFFF&area=true&title_color=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Murugan2803&custom_title=Murugan's%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=FFFFFF&area=true&title_color=FFFFFF" />
 </p>
 
 ---

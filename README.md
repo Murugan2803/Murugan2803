@@ -1,96 +1,86 @@
-<!------------------------------------------------------------------------------------Introduction--------------------------------------------------------------------------------------------------->
+<!-- ---------------------------------- Introduction ---------------------------------- -->
 
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Murugan</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <span style="color:#7F3FBF;">Murugan</span></h1>
 
 <p align="center">
-<a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=FrontEnd+Developer;React+Developer;Vuejs+Developer;Software+Developer&center=true&width=500&height=50"></a>
-</p>
-
-<!------------------- <p align="center">
-<img align="center" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-</p>------------------>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Murugan&label=Profile%20views&color=0e75b6&style=flat" alt="Murugan" /> </p>
-
-- I have a strong enthusiasm for exploring new technologies and expanding my knowledge in various areas.
-- I’m looking to collaborate on open-source projects.
-
- #### Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/murugan-m0306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Murugan" height="20" width="30" /></a>
-<a href="https://github.com/Murugan0328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Murugan" height="20" width="30" /></a>
-<a href="https://instagram.com/__shxdow_411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Akash" height="20" width="30" /></a>
-
-</p>
-<br>
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!------------------------------------------------------------------------------------Skills--------------------------------------------------------------------------------------------------->
-
-
-# Languages and Tools 
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=Java,windows&perline=10" />
+  <a href="https://github.com/Ratheshan03/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=FrontEnd+Developer;React+Developer;Vue+Developer;Software+Engineer;Tech+Explorer&center=true&width=500&height=50&font=Fira+Code&color=7F3FBF&vCenter=true">
   </a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+</p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Murugan0328&label=Profile+views&color=7F3FBF&style=flat-square" alt="Murugan0328" />
+</p>
 
-<!------------------------------------------------------------------------------------LeetCode--------------------------------------------------------------------------------------------------->
+---
 
+### 🚀 About Me
+- 🔭 I’m currently working with Vue & React
+- 🌱 I love learning new technologies and contributing to open-source
+- 👯 I’m looking to collaborate on exciting frontend or full-stack projects
+- 🧠 Passionate about UI/UX, performance, and clean code
 
-# LeetCode
+---
 
-<a href="https://leetcode.com/murugan28/">
-    <img src="https://leetcard.jacoblin.cool/Murugan?theme=dark&font=Goldman&ext=activityy"></img>
-<a>
+### 📫 Connect with me
 
- 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p align="left">
+  <a href="https://linkedin.com/in/murugan-m0306" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Murugan0328" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
+  <a href="https://instagram.com/__shxdow_411" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
+  </a>
+</p>
 
-<!------------------------------------------------------------------------------------ Deployment and Stats--------------------------------------------------------------------------------------------------->
+---
 
+### 🧰 Tech Stack
 
-# Deployment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,sass,tailwind,bootstrap,vite,nodejs,express,java,mysql,firebase,git,github,vscode,figma&perline=10"/>
+</p>
 
-![Victor's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Murugan2803&show_icons=true&theme=tokyonight)     
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murugan2803&theme=tokyonight&hide=html&layout=compact) 
+### 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats-phi-silk.vercel.app/?user=Murugan2803&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Murugan2803&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murugan2803&layout=compact&hide=html&theme=tokyonight&border_radius=10" width="48%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Murugan2803&theme=tokyonight&border_radius=10" width="96%" />
+</p>
 
+---
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+### 🧩 LeetCode Progress
 
-<!------------------------------------------------------------------------------------Github Graph--------------------------------------------------------------------------------------------------->
+<p align="center">
+  <a href="https://leetcode.com/murugan28/">
+    <img src="https://leetcard.jacoblin.cool/Murugan?theme=dark&font=Goldman&ext=activity" alt="Murugan's LeetCode Profile" />
+  </a>
+</p>
 
+---
 
+### 🌐 GitHub Contribution Graph
 
-# GitHub Graph 
-![Murugan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Murugan&custom_title=%20Murugan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Murugan0328&custom_title=Murugan's%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=FFFFFF&area=true&title_color=FFFFFF" />
+</p>
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
-
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke" />
+</p>

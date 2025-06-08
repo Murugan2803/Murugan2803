@@ -48,11 +48,7 @@ I'm a passionate Front-End Developer with experience building web applications u
 <h3>🛠 Tech Stack</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,vue,js,ts,html,css,sass,tailwind,bootstrap,vite,nodejs,mysql,docker,firebase,git,github,vscode,figma,idea,arduino&perline=10" alt="Tech Stack Icons" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse IDE" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,vue,js,ts,html,css,sass,tailwind,bootstrap,vite,nodejs,mysql,docker,firebase,git,github,vscode,figma,idea,arduino,eclipse&perline=10" alt="Tech Stack Icons" />
 </p>
 
 

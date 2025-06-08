@@ -50,7 +50,7 @@ I'm a passionate Front-End Developer with experience building web applications u
 <h3>🛠 Tech Stack</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,springboot,react,vue,js,ts,html,css,sass,tailwind,bootstrap,vite,nodejs,mysql,docker,firebase,git,github,vscode,figma,intellijidea&perline=10" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,vue,js,ts,html,css,sass,tailwind,bootstrap,vite,nodejs,mysql,docker,firebase,git,github,vscode,figma,intellijidea&perline=10" alt="Tech Stack Icons" />
 </p>
 
 

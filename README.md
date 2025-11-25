@@ -55,7 +55,7 @@ I'm a passionate Front-End Developer with experience building web applications u
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Murugan2803&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />

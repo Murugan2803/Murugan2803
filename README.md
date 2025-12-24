@@ -1,91 +1,88 @@
-<!-- ---------------------------------- Introduction ---------------------------------- -->
-
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <span style="color:#7F3FBF;">Murugan M</span></h1>
-
+<h1 align="center">Murugan M</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=FrontEnd+Developer;React+Developer;Vue+Developer;Software+Engineer;Tech+Explorer&center=true&width=500&height=50&font=Fira+Code&color=7F3FBF&vCenter=true">
-  </a>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+  Front-End Developer • React & Vue Engineer • UI-Focused Software Developer
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Murugan0328&label=Profile+views&color=7F3FBF&style=flat-square" alt="Murugan0328" />
+  <a href="https://linkedin.com/in/murugan-m0306">LinkedIn</a> •
+  <a href="https://github.com/Murugan0328">GitHub</a> •
+  <a href="https://leetcode.com/murugan28/">LeetCode</a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 👋 Profile Summary
 
-I'm a passionate Front-End Developer with experience building web applications using React, Vue.js, and modern JavaScript frameworks. I enjoy turning ideas into reality through clean, efficient, and user-friendly interfaces.
+Front-End Developer with **1.3+ years of professional experience** building scalable, user-centric web applications using **React and Vue.js**.  
+Experienced in working on **enterprise-level platforms**, including projects associated with **WHO**, with a strong focus on performance, clean architecture, and maintainable UI systems.
 
-💻 Currently working on:
-- ⚛️ React and Vue-based projects  
-- 🧩 Component libraries and design systems  
-- 🔐 Authentication with Keycloak & JWT  
-- 📦 Scalable apps with optimized state management (Vuex, React Context)
+I specialize in transforming complex business requirements into intuitive, high-quality user interfaces.
 
 ---
 
-### 📫 Connect with me
+## 🧑‍💻 Core Expertise
 
-<p align="left">
-  <a href="https://linkedin.com/in/murugan-m0306" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Murugan0328" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-  </a>
-  <a href="https://instagram.com/__shxdow_411" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
-  </a>
-</p>
+- Modern Front-End Development (React, Vue)
+- Component-driven UI architecture
+- State management (Context API, Vuex)
+- REST API integration
+- Authentication & Authorization (JWT, Keycloak)
+- Responsive & accessible UI design
+- Performance optimization
 
 ---
 
-<h3>🛠 Tech Stack</h3>
+## 🛠 Technology Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,vue,js,ts,html,css,sass,tailwind,bootstrap,vite,nodejs,mysql,docker,firebase,git,github,vscode,figma,idea,arduino,eclipse&perline=10" alt="Tech Stack Icons" />
-</p>
+**Frontend**
+- React.js, Vue.js
+- JavaScript (ES6+), TypeScript
+- HTML5, CSS3, SCSS
+- Tailwind CSS, Bootstrap
+- Vite
 
+**Backend & Infrastructure**
+- Node.js
+- Java, Spring Boot
+- MySQL
+- Firebase
+- Docker
 
+**Tools & Workflow**
+- Git, GitHub
+- VS Code, IntelliJ IDEA
+- Figma
 
 ---
 
-### 📊 GitHub Status
+## 📌 Professional Highlights
+
+- Developed reusable and scalable UI components
+- Implemented secure authentication flows
+- Collaborated closely with backend and design teams
+- Delivered production-ready features for real users
+- Followed clean code and best UI/UX practices
+
+---
+
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Murugan2803&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murugan2803&layout=compact&hide=html&theme=tokyonight&border_radius=10" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Murugan2803&theme=tokyonight&border_radius=10" width="96%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Murugan2803&show_icons=true&hide_title=true&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murugan2803&layout=compact&theme=github_dark" height="150"/>
 </p>
 
 ---
 
-### 🧩 LeetCode Progress
+## 📈 Coding Practice
 
 <p align="center">
-  <a href="https://leetcode.com/murugan28/">
-    <img src="https://leetcard.jacoblin.cool/Murugan?theme=dark&font=Goldman&ext=activity" alt="Murugan's LeetCode Profile" />
-  </a>
+  <img src="https://leetcard.jacoblin.cool/murugan28?theme=light&font=Inter" />
 </p>
 
 ---
 
-### 🌐 GitHub Contribution Graph
+## 📬 Contact
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Murugan2803&custom_title=Murugan's%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=FFFFFF&area=true&title_color=FFFFFF" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke" />
-</p>
+📧 Open to Front-End / React Developer opportunities  
+🌍 Based in India | Open to remote roles
